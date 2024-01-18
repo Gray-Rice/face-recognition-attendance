@@ -1,1 +1,2 @@
-# face-recognition-attendance
+# Face Recognition Attendance System
+Documentation -TODO
